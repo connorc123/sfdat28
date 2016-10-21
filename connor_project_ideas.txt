@@ -1,0 +1,8 @@
+
+
+Project ideas -- all are for my employer, Narvar.com
+
+
+1. NLP and sentiment analysis on user-generated comments to predict user generated star value
+2. Probability to click on a marketing asset based on certain shipping criteria
+3. Unsupervsied learning to cluster various types of users
